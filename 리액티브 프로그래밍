@@ -1,7 +1,19 @@
-리엑티브 
+프론트엔드 개발자
 
-1. 왕초보를 위한 <Reactive programming이 뭔지 알기 전에>
-출처: https://zeddios.tistory.com/303 [ZeddiOS]
+ECMASCript 자바스크립트 표준언어
 
-2.Reactive Programing(1) – 리액티브 프로그래밍 개념잡기
-https://www.charlezz.com/?p=189
+리엑티브react,앵귤러angular, 뷰vue 
+리액티브https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html
+반응형으로 여러 해상도 대응하기위해 나타났다.
+웹페이지 내용을 화면에 표현하면 해상도에 따라 일부분이 표현되지 못하거나 페이지가 남는 현상이 생기는데 
+화면의 크기에 따라 픽셀별 색상,크기를 변형해서 크기에 알맞게 반영한다.
+ES6
+
+
+픽셀과, viewport(meta tag)
+1) meta tag에 Viewport에 대한 별 내용이 없으면 기본적으로 웹 페이지는 980px을 기준으로 렌더링 한다. 
+2) 하지만 글자의 가독성이 떨어지므로 장비별로 가독성이 가장 좋은 device-width를 Viewport에 세팅할 수 있는 옵션이 존재한다. 
+3) 위의 옵션 정의 후, 장비별 device-width로 페이지가 렌더링 된다.
+
+리액티브 입문
+https://velopert.com/3480
