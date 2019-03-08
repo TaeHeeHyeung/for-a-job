@@ -6,8 +6,9 @@ https://luckydavekim.github.io/web/2018/02/07/what-is-the-ecmascript/
 
 리소스지향 아키텍처 스타일 (명사위주)
 
-리액트의 탄생 배경
+webpack과 babel로 최신 javascript 웹 프론트 개발환경 만들기
 https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/
+리액트의 탄생 배경
 자바스크립트 호환성의 문제
 자바스크립트 버전이 업그레이드 되어왔다.
 익스플로러에서는 자바스크립트 ES6(ES2015)버전부터 사용이 불가능해졌다.
