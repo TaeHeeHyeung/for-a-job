@@ -1,5 +1,19 @@
+ES6 ES2015 ECMAScript
+자바스크립트
 
-REST API: representational state transfer api
-rest
+
+
+
 리소스지향 아키텍처 스타일 (명사위주)
 
+리액트의 탄생 배경
+
+자바스크립트 호환성의 문제
+자바스크립트 버전이 업그레이드 되어왔다.
+익스플로러에서는 자바스크립트 ES6(ES2015)버전부터 사용이 불가능해졌다.
+
+Babel의 등장 
+Babel은 ES6이상버전을 익스플로러 버전에서 돌아갈 수 있도록 변환해준다
+
+ES6의 Webpack 기능
+Webpack은 ES6에서 등장한 기능으로 
