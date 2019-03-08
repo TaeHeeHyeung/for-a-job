@@ -1,7 +1,24 @@
 ES6 ES2015 ECMAScript
-자바스크립트
+
 https://luckydavekim.github.io/web/2018/02/07/what-is-the-ecmascript/
 
+자바스크립트란 
+ECMAScript + BOM(Browser Object Model) + DOM(Document Object Model)
+ES란 자바스크립트를 이루는 코어언어로 다양한 환경에서 사용가능하다.
+ES는 웹에서 실행되기 위해 BOM과 DOM을 함께 사용하는 확장성이 있다.
+
+
+ES3(1999)
+
+
+
+https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19
+자바스크립트 스코프와 클로저 (JavaScript Scope and Closures)
+함수 단위의 스코프, 호이스팅, 클로저, 프로토타입
+스코프 : 변수의 활동범위 
+내스팅된 스코프: 내부에서 생성한 변수는 외부에서 접근할 수 있다
+클로저 : 내스팅 스코프 때문에 내부 매서드에서 선언한 매서드는 return으로 종료하여 메모리 할당을 해제시켜준다.
+전역변수 : 코드 내 모든곳에서 사용가능
 
 
 리소스지향 아키텍처 스타일 (명사위주)
